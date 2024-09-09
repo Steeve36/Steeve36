@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently training as an Android Developer with Openclassrooms<br>
+🔭 Currently training as an Android Developer at Openclassrooms<br>
 🤝 I'm open to proposals for work-study contracts<br>
 📱 I'm currently learning JAVA and Kotlin for Mobile<br>
 💻 On my Webdev learning roadmap i have PHP, React, MySQL...<br>
@@ -19,8 +19,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Steeve36&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Steeve36&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Steeve36&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Steeve36&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Steeve36&theme=radical&no-frame=true&no-bg=false&margin-w=4)
