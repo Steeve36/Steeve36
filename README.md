@@ -1,10 +1,5 @@
 # 💫 About Me:
-🔭 Currently training as an Android Developer at Openclassrooms<br>
-🤝 I'm open to proposals for work-study contracts<br>
-📱 I'm currently learning JAVA and Kotlin for Mobile<br>
-💻 On my Webdev learning roadmap i have JavaScript, Angular, MySQL...<br>
-🚀 I'm what they call a Business & Tech person<br>
-⚡ Learn fast, build efficiently
+Business & Tech person
 
 
 ## 🌐 Socials:
